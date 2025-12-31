@@ -1,6 +1,6 @@
 {
   "name": "cca-engine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Human-style chess analysis engine based on CCA++ (Checks, Captures, Attacks)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
